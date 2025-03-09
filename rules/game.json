@@ -1,1 +1,10 @@
-
+{
+  "version": 1,
+  "rules": [
+    {
+      "process_name": [
+        "Game.exe"
+      ]
+    }
+  ]
+}
