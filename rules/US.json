@@ -1,17 +1,12 @@
+{
+  "version": 1,
   "rules": [
     {
-  "route": {
-    "rules": [
-      {
-        "action": "route",
-        "domain_suffix": [
+      "domain_suffix": [
           "pilipiliultra.com",
           "zox.show",
           "hypixel.net"
-        ],
-        "outbound": "🎮 游戏代理"
-      }
-    ]
-  }
-}
+      ]
+    }
   ]
+}
