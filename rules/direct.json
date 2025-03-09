@@ -1,1 +1,19 @@
-
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_keyword": [
+        "epicgames",
+        "ubi"
+      ]
+    },
+    {
+      "process_name": [
+        "Backrooms-Win64-Shipping.exe",
+        "Inside the Backrooms.exe",
+        "Lethal Company.exe",
+        "BlazblueEntropyEffect.exe"
+      ]
+    }
+  ]
+}
