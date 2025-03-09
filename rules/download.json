@@ -1,1 +1,15 @@
-
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_keyword": [
+        "steam"
+      ]
+    },
+    {
+      "process_name": [
+        "Onedrive.exe"
+      ]
+    }
+  ]
+}
